@@ -3,6 +3,7 @@
 namespace rocketfellows\GBVatFormatValidator\tests\unit;
 
 use PHPUnit\Framework\TestCase;
+use rocketfellows\GBVatFormatValidator\GBVatFormatValidator;
 
 class GBVatFormatValidatorTest extends TestCase
 {
